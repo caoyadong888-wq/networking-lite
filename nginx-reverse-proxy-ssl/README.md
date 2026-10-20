@@ -65,3 +65,8 @@ HTTPS 段需要先按 `deliverables/certbot-webroot.md` 签发证书。示例里
 nginx 1.25 或更高。签发证书时需要 Certbot 2.x。
 
 Full version: GUMROAD_URL
+
+## Delivery time / 交付时间
+
+- Lite (this repo): free, available now. / 精简版（本仓库）：免费，立即可用。
+- Full version: instant download after purchase (GUMROAD_URL). / 完整版：购买后即时下载（GUMROAD_URL）。
